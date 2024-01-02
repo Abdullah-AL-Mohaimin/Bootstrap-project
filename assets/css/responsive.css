@@ -66,4 +66,20 @@
     .timeline-content{
         width: 47%;
     }
+    .skill{
+        font-size: 20px !important;
+    }
+    .team-social{
+        font-size: 15px !important;
+    }
+    .team-content h3{
+        font-size: 10px !important;
+    }
+    .team-content h3 span{
+        font-size: 10px !important;
+    }
+    .download-cv a{
+        
+    }
+
 }
